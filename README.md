@@ -58,19 +58,22 @@ lib/
 
 ### Products Screen
 
-<!-- screenshot will be added here -->
+<img width="428" height="928" alt="image" src="https://github.com/user-attachments/assets/a4869824-877d-4888-acfc-51acd9898e61" />
+
 
 ---
 
 ### Search & Filter
 
-<!-- screenshot will be added here -->
+<img width="435" height="930" alt="image" src="https://github.com/user-attachments/assets/e291373f-a254-4d7e-a754-fc6562fa1fbf" />
+
 
 ---
 
 ### Cart Screen
 
-<!-- screenshot will be added here -->
+<img width="430" height="932" alt="image" src="https://github.com/user-attachments/assets/ef1db5d2-e4c9-4bca-8a35-eb59d8d8deed" />
+
 
 ## Performed by
 
